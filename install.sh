@@ -119,7 +119,7 @@ enterpriseWechatAgentId="xxxxxxxxxx"
 enterpriseWechatUsers="xxxxx,xxxxx"
 
 
-#是否启动监控自启动脚本
+#是否启动监控自启动脚本11
 monitorServerState="false"
 
 # 资源中心上传选择存储方式：HDFS,S3,NONE
